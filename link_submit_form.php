@@ -3,7 +3,7 @@
 Plugin Name: Frontend Link Submit
 Description: 前台友情链接自助申请表单
 Version: 1.4
-Author: Your Name
+Author: Aeris
 */
 
 // 创建激活钩子初始化分类
